@@ -90,7 +90,7 @@ telegram-cloud-storage-bot/
 ## 1. Клонирование проекта
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:BoCXoD-man/Telegram-Cloud-Storage-Bot.git
 cd telegram-cloud-storage-bot
 ```
 
